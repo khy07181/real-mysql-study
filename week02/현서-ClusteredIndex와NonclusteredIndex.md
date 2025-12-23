@@ -11,6 +11,9 @@
 
 이 구조를 이해해야 왜 PK 설정이 중요한지, 인덱스가 어떻게 동작하는지 제대로 알 수 있다.
 
+<img width="895" height="220" alt="image" src="https://github.com/user-attachments/assets/6a8ff14c-b701-46a7-9f6d-9e1081ebafdf" />
+
+
 ---
 
 ## 1. Clustered Index: 테이블 그 자체
